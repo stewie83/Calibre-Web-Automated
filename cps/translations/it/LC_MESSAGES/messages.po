@@ -745,7 +745,7 @@ msgstr "Autore"
 
 #: cps/cwa_functions.py:269
 msgid "Trigger Type"
-msgstr ""
+msgstr "Tipo di attivazione"
 
 #: cps/cwa_functions.py:271 cps/cwa_functions.py:277
 #, fuzzy
@@ -760,19 +760,19 @@ msgstr "nome"
 
 #: cps/cwa_functions.py:275
 msgid "Manual?"
-msgstr ""
+msgstr "Manuale?"
 
 #: cps/cwa_functions.py:275
 msgid "No. Fixes"
-msgstr ""
+msgstr "N. Correzioni"
 
 #: cps/cwa_functions.py:275 cps/cwa_functions.py:280 cps/cwa_functions.py:282
 msgid "Original Backed Up?"
-msgstr ""
+msgstr "Effettuato backup dell'originale?"
 
 #: cps/cwa_functions.py:277
 msgid "Fixes Applied"
-msgstr "Modifiche Applicate"
+msgstr "Correzioni Applicate"
 
 #: cps/cwa_functions.py:282
 msgid "Original Format"
@@ -870,7 +870,7 @@ msgstr "utenti eliminati correttamente"
 
 #: cps/cwa_functions.py:811
 msgid "CWA Profile Picture Management (WIP)"
-msgstr ""
+msgstr "CWA Profile Picture Management (In lavorazione)"
 
 #: cps/db.py:1006 cps/templates/config_edit.html:217
 #: cps/templates/config_view_edit.html:63 cps/templates/email_edit.html:41
@@ -1122,7 +1122,7 @@ msgstr ""
 #: cps/helper.py:495 cps/helper.py:504
 #, python-format
 msgid "File %(file)s not found on Google Drive"
-msgstr "Il file %(file) non è stato trovato su Google Drive"
+msgstr "Il file %(file)s non è stato trovato su Google Drive"
 
 #: cps/helper.py:546
 #, python-format
@@ -1255,7 +1255,7 @@ msgstr "Configurazione di Kobo"
 
 #: cps/kosync.py:143
 msgid "KOReader Sync Plugin"
-msgstr ""
+msgstr "KOReader Sync Plugin"
 
 #: cps/oauth_bb.py:63
 #, python-format
@@ -2251,7 +2251,7 @@ msgstr "Versione attuale"
 
 #: cps/templates/admin.html:264 cps/templates/admin.html:269
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: cps/templates/admin.html:276
 msgid "Check for Update"
@@ -2804,7 +2804,7 @@ msgstr ""
 
 #: cps/templates/config_db.html:37
 msgid "Split Library Functionality"
-msgstr ""
+msgstr "Funzionalità Split Library"
 
 #: cps/templates/config_db.html:40
 msgid ""
